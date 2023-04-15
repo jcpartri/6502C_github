@@ -1,5 +1,7 @@
 # 6502C Addressing Modes Explained
 
+A detailed explanation of how addressing modes work on the 6502C processor.
+
 ## **Implied (Implicit)**
 
 - no address involved. Operation does not need one. Operates on registers or stack alone.
