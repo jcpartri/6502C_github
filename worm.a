@@ -1,0 +1,6 @@
+;;; Play a Worm Game!
+
+    !to "worm", cbm
+    * = $1300
+
+    !addr SCREEN = $0400
